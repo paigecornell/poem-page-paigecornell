@@ -1,1 +1,1 @@
-# Replace My Content
+https://www.toptal.com/developers/gitignore/api/node,linux,macos,windows,visualstudiocode
